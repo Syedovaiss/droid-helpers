@@ -12,5 +12,5 @@ allprojects {
 ## put this in your build.gradle(app level)
 
 dependencies {
-	        implementation 'com.github.Syedovaiss:droid-helpers:Tag'
+	        implementation 'com.github.Syedovaiss:droid-helpers:master-SNAPSHOT'
 	}
