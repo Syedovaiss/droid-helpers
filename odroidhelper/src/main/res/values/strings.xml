@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ODroidHelper</string>
+    <string name="copied_text">Copied Text</string>
+    <string name="choose_one">Choose One</string>
+    <string name="invalid_end_date" translatable="false">Invalid end date!</string>
+    <string name="invalid_start_date" translatable="false">Invalid start date!</string>
+</resources>
